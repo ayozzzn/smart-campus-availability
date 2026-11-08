@@ -31,4 +31,4 @@ Expected: 2 test files, 28 tests passing (16 regression for AC1–AC6, 12 for ro
 - Initial version: main
 - Final version: main
 ## AI assistant
-Bolt.new – see the AI evidence appendix in `A4_Azamatkyzy_Ayazhan_Report.pdf`.# smart-campus-availability
+Bolt.new – see the AI evidence appendix in `A4_Azamatkyzy_Ayazhan_Report.pdf`.
